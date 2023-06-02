@@ -1,0 +1,29 @@
+@count,@template,art,rank,name,text
+1,templates/card.html,{{ art/cancel_layout_1.png copy-only }},0,Cancel Card,Using this card allows you to prevent another card from being used on anyone. 
+1,templates/card.html,{{ art/cancel_layout_1.png copy-only }},1,Nope,This card undoes the last person's storyline and requires them to do something differently. 
+1,templates/card.html,{{ art/clarify_story.png copy-only }},1,Clarify ,This card has the present creator clarify something chosen by the card-player.
+1,templates/card.html,{{ art/end_story_humorous1.png copy-only }},3,End Comically,This card has the next player ending the story comically
+1,templates/card.html,{{ art/end_story_darkly1.png copy-only }},2,End Darkly,End the story in the other Creator's turn with dark overtones.
+1,templates/card.html,{{ art/end_story_layout1.png copy-only }},2,End in One Turn,The next creator must end the story. 
+1,templates/card.html,{{ art/end_story_layout1.png copy-only }},2,End in Two Turns,End the story in Two turns. 
+1,templates/card.html,{{ art/end_story_positively1.png copy-only }},2,End Positively,The present creator must end the story with positive overtones.
+1,templates/card.html,{{ art/end_story_layout1.png copy-only }},3,To-be-continued…,End the story and set it up for a sequel
+1,templates/card.html,{{ art/the_greatest_story1.png copy-only }},0,Keep going,The present creator continue as if this were their first round. 
+1,templates/card.html,{{ art/go_into_detail1.png copy-only }},1,Go Deeper,The next creator should go into greater detail regarding the present story-line.
+1,templates/card.html,{{ art/help_someone1.png copy-only }},1,Help someone,"Help someone in the story, somehow"
+1,templates/card.html,{{ art/lighten_up1.png copy-only }},2,Lighten it up,"The present creator continue, making the story lighter than it previously was."
+1,templates/card.html,{{ art/the_greatest_story1.png copy-only }},2,Make it Dark,"Playing this card has the present creator continue, making the story darker than it previously was."
+1,templates/card.html,{{ art/new_character1.png copy-only }},1,New Character,"Playing this has the next player, Introduce a new character. "
+1,templates/card.html,{{ art/plotline_twist1.png copy-only }},2,Plotline Twist,The next creator must 'twist' the plotline in some interesting manner.
+1,templates/card.html,{{ art/recent_events1.png copy-only }},1,Recent Events,Playing this has the next creator bring a recent event into the story
+1,templates/card.html,{{ art/reverse_direction1.pngcopy-only }},0,Reverse Direction,This card reverses the direction of the Story
+1,templates/card.html,{{ art/rewind1.png copy-only }},1,Rewind,The next creator must go back to some point in the story-line and continue as if it were a memory. 
+1,templates/card.html,{{ art/the_greatest_story1.png copy-only }},1,Shakespearean Trajedy,Playing this card requires the next creator to kill a major character in the plotline in a tragic manner
+1,templates/card.html,{{ art/skip1.png copy-only }},0,Skip Me,Skip your Turn
+1,templates/card.html,{{ art/steal_plotline1.png copy-only }},2,Steal Plot-line,"Playing this card, face down before the end of another player's turn allows you to take the plot-line from where you started From."
+1,templates/card.html,{{ art/switch_character1.png copy-only }},2,Switch Character,"This card has the next story-part from the point of view a previously created character, or of a new character."
+1,templates/card.html,{{ art/the_greatest_story1.png copy-only }},1,Switch Perspective,"The next player must change perspective, from first, to second or third person. (narrator vs actual character)"
+1,templates/card.html,{{ art/teleport.png copy-only }},0,Teleport,This card has the story to be continued by creator of your choice. The player is chosen at the end of your turn. 
+1,templates/card.html,{{ art/plotline_twist1.png copy-only }},1,Twist,This card pushes the next player create a major plot twist
+1,templates/card.html,{{ art/the_greatest_story1.png copy-only }},0,Write your own,Write a rule that other Creator's must generally agree upon
+1,templates/card.html,{{ art/the_greatest_story1.png copy-only }},1,Zoom out,This card pushes the next player to consider the present story as part of a larger story. 

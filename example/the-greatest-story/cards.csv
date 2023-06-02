@@ -1,0 +1,46 @@
+@count,@template,art,rank,name,text,frame_index,frame
+4,templates/card.html,{{ art/nope1.png copy-only }},0,Nope,Nope allows any card in the game to be ignored one time.,1,{{ templates/resources/frame_any.png copy-only }}
+3,templates/card.html,{{ art/clarify_story.png copy-only }},1,Clarify ,Clarify a plot element chosen by the first person to shout what needs clarifying.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/end_story_humorous1.png copy-only }},3,End Comically,End the story comically.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/end_story_darkly1.png copy-only }},3,End Darkly,End the story darkly. ,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/end_in_one_turn1.png copy-only }},2,End in One Turn,End the story. ,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/end_story_layout1.png copy-only }},0,End in Two Turns,The story must end in two turns. Draw another card.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/end_story_positively1.png copy-only }},2,End Positively,End the story with positive overtones.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/to_be_continued1.png copy-only }},3,To-be-continued…,End the story and set it up for a sequel.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/loop1.png copy-only }},2,Loop It,Loop back to what was said before,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/keep_going1.png copy-only }},1,Keep going,Keep going as if it were the beginning of your turn.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/go_into_detail1.png copy-only }},1,Go Deeper,Go into greater detail regarding the present story-line.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/help_someone1.png copy-only }},1,Help Someone,"Help someone in the story, somehow.",2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/lighten_up1.png copy-only }},2,Lighten it Up,Make the story 'lighter' than it has been recently.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/make_it_dark1.png copy-only }},2,Make it Dark,Make the story 'darker' than it has been recently.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/new_character1.png copy-only }},1,New Character,Introduce a new character.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/plotline_twist1.png copy-only }},2,Plotline Twist,Twist' the plotline in some interesting manner.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/recent_events1.png copy-only }},1,Recent Events,Bring a recent event into the story.,2,{{ templates/resources/frame_before.png copy-only }}
+4,templates/card.html,{{ art/reverse_direction1.png copy-only }},0,Reverse Direction,Reverse the direction of the Story after you are done. Draw another card.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/rewind1.png copy-only }},2,Time Travel,Go to some point forward or backward in time and connect to the present story.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/shakesperean_trajedy1.png copy-only }},1,Shakespearean Trajedy,Kill a major character in the plotline in a tragic manner.,2,{{ templates/resources/frame_before.png copy-only }}
+4,templates/card.html,{{ art/skip1.png copy-only }},1,Skip Me,Skip your Turn.,1,{{ templates/resources/frame_any.png copy-only }}
+5,templates/card.html,{{ art/steal_plotline1.png copy-only }},1,Steal Plot-line,"When you want to, you can start speaking with the game continuing as you as the present Creator. ",1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/switch_character1.png copy-only }},2,Switch Character,Speak from the perspective of a new or different character. ,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/switch_perspective1.png copy-only }},1,Switch Perspective,"Change the perspective of the story to a different one. (1st, 2nd, 3rd).  ",1,{{ templates/resources/frame_any.png copy-only }}
+4,templates/card.html,{{ art/teleport.png copy-only }},0,Teleport,The story continues to the next Creator of your choice. Draw&play another card.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/plotline_twist1.png copy-only }},0,Twist,The next creator must create a major plot twist to get any review points.,1,{{ templates/resources/frame_any.png copy-only }}
+8,templates/card.html,{{ art/write_your_own1.png copy-only }},0,Write your own,Write a generally accepted rule that stays in the game. Draw&Play another card.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/zoom_out1.png copy-only }},1,Zoom out,Create the present story as if it were part of a larger story. ,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/sound_effects1.png copy-only }},2,Sound Effects,Chose a Creator to add sound effects and gain these review points. Draw&play another card.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/silence_all1.png copy-only }},0,Quiet Listening,"For one turn, all Listeners may only speak when Creating. If they speak, they must discard all cards they have won.",3,{{ templates/resources/frame_yours.png copy-only }}
+4,templates/card.html,{{ art/silence_you1.png copy-only }},0,Shhhhh......,"For one turn, a chosen Listener may only speak on their turn. If they speak, they must discard all cards they have won.",3,{{ templates/resources/frame_yours.png copy-only }}
+2,templates/card.html,{{ art/timer_15sec1.png copy-only }},4,Count down 15,Finish the story nicely in 20 seconds. Audience to time.,1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/timer_30sec1.png copy-only }},2,Count down 30,"Finish the story nicely, in any way they want in 30 seconds. ",2,{{ templates/resources/frame_before.png copy-only }}
+6,templates/card.html,{{ art/give1.png copy-only }},2,Give,Creator gets 2 more points if their creation is well reviewed. Draw&play another card.,1,{{ templates/resources/frame_any.png copy-only }}
+3,templates/card.html,{{ art/duet1.png copy-only }},2,Duet,Choose a listener and have a story-related conversation. They gain this card. Draw&play another card.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/meta_story1.png copy-only }},2,Meta-story,Bring a story relating to the Listeners or Creator into the story.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/recap1.png copy-only }},2,Recap,Recap the story as if it were the beginning of a new episode in a series. ,2,{{ templates/resources/frame_before.png copy-only }}
+4,templates/card.html,{{ art/accelerando1.png copy-only }},2,Accelerando,"For these points, the Next Creator speeds up the story, and pass it to another player quickly. Draw another card.",1,{{ templates/resources/frame_any.png copy-only }}
+2,templates/card.html,{{ art/tongues_out1.png copy-only }},0,Tongues out,For one full round every Creator must tell their story with their tongue out in order to gain points. Draw another card.,3,{{ templates/resources/frame_yours.png copy-only }}
+2,templates/card.html,{{ art/tongue_out1.png copy-only }},2,Tongue out,Tell your story with your tongue out in order to gain points.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/accent_time1.png copy-only }},0,Accent time,The next Creator must talk with their best or favorite non-standard accent to any points.,2,{{ templates/resources/frame_before.png copy-only }}
+1,templates/card.html,{{ art/armageddon1.png copy-only }},4,Dark Comedy,Write into the story that the world has ended in some comical way.,2,{{ templates/resources/frame_before.png copy-only }}
+2,templates/card.html,{{ art/five_minute_timer1.png copy-only }},0,5 minute timer,The story must end within 5 minutes,3,{{ templates/resources/frame_yours.png copy-only }}
+4,templates/card.html,{{ art/listen1.png copy-only }},0,Listen,"The next creator must repeat an exact 5 word phrase from the previous creator, else no points can be won.",2,{{ templates/resources/frame_before.png copy-only }}
+,,,,Honesty,,,
